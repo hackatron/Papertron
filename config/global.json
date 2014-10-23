@@ -1,8 +1,8 @@
 {
     "applications": {
         "Papertron": {
-            "applicationId": "ofx5UFrBL6xh3esfbMTuFMlCc4jk7IyFSWNMQkMH", 
-            "masterKey": "qu29lUx8XFK2oQg44Kc9spMBwYWqc0yhP4cQ3R9a"
+            "applicationId": "", 
+            "masterKey": ""
         }, 
         "_default": {
             "link": "Papertron"
